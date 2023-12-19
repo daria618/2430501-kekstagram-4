@@ -1,5 +1,6 @@
 const MAX_HASHTAGS_COUNT = 5;
 const MAX_HASHTAGS_LENGTH = 20;
+
 const form = document.querySelector('.img-upload__form');
 const inputHashtag = form.querySelector('.text__hashtags');
 const submitButton = form.querySelector('#upload-submit');
